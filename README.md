@@ -81,3 +81,7 @@ This project is open source and available under the MIT License.
 Thanks to the creators of:
 - OpenCV
 - Python Image Processing Community
+
+
+
+***Altan Ulaş Zöhre***
